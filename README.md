@@ -1,5 +1,0 @@
-# repo-demo
-
-Hello!
-
-Welcome.
